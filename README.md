@@ -4,4 +4,4 @@ Name: HARDIK BHATI
 Company: CODETECH IT SOLUTION
 Domain : CYBERSECURITY & ETHICAL HACKING
 Duration : 6 WEEKS
-Mentor : Neela Santhosh Kumar
+Mentor : Neela Santhosh kumar
